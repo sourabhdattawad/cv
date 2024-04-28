@@ -109,6 +109,8 @@
 \newcommand{\github}[1]{\faIcon{github} \href{https://github.com/#1/}{#1}}
 \newcommand{\linkedin}[1]{\faIcon{linkedin} \href{https://linkedin.com/in/#1/}{#1}}
 \newcommand{\location}[1]{\faIcon{map-marker-alt} #1}
+\newcommand{\website}[1]{\faIcon{globe} \href{https://sourabhdattawad.github.io/#1}{#1}}
+
 % Experience/Achievements
 \newcommand{\tech}[1]{\textbf{#1}}
 \newcommand{\role}[2]{\textbf{#2 | \emph{#1}}}
